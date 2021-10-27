@@ -2,8 +2,8 @@
 # html-template
 A started template for HTML project
 
-<h1>Your Name(s) Here</h1>
-<p>Email (as appearing in moodle): student@hac.ac.il</p>
+<h1>Matan Tenenboim מתן טננבוים</h1>
+<p>email: matante@edu.hac.ac.il</p>
 
 <h1>Execution</h1>
 <p>
