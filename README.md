@@ -2,7 +2,7 @@
 # html-template
 A started template for HTML project
 
-<h1>Matan Tenenboim מתן טננבוים</h1>
+<h1>Matan Tenenboim </h1>
 <p>email: matante@edu.hac.ac.il</p>
 
 <h1>Execution</h1>
